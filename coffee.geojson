@@ -378,6 +378,111 @@
           38.9065362916739
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Northside Social",
+        "crowdedness": "Yes",
+        "power": "Yes",
+        "atmosphere": "Hip",
+        "wifi": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.88521,
+          -77.09815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boccato Gelato & Espresso",
+        "crowdedness": "No",
+        "power": "Yes",
+        "atmosphere": "Intimate",
+        "wifi": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09094,
+          38.88963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Java Shack",
+        "crowdedness": "",
+        "power": "",
+        "atmosphere": "",
+        "wifi": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08895,
+          38.89075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bayou Bakery",
+        "crowdedness": "Yes",
+        "power": "",
+        "atmosphere": "Hip",
+        "wifi": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08311,
+          38.89122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cafe Kindred",
+        "crowdedness": "No",
+        "power": "Yes",
+        "atmosphere": "Intimate",
+        "wifi": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16558,
+          38.8852
+        ]
+      }
     }
   ]
 }
